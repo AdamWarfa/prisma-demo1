@@ -1,5 +1,3 @@
-// index.js
-
 const express = require("express");
 const { PrismaClient } = require("./src/generated/client");
 
